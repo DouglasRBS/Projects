@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(255, 193, 193);
+}
+
+.container-pai {
+    height: 280px;
+    width: 620px;
+    position: absolute;
+    background-color: rgb(142, 243, 209);
+}
+
+.container-filho {
+    height: 140px;
+    width: 310px;
+    position: absolute;
+    left: 80px;
+    background-color: #d6f38e;
+}
+
+.container-filho-dois {
+    height: 100px;
+    width: 250px;
+    position: absolute;
+    left: 70px;
+    z-index: 4;
+    background-color: #0657d1;
+}
+
+.tamanho-min {
+    background-color: red;
+}
